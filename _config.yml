@@ -6,7 +6,7 @@
 # Site
 title: S0ngR1sE
 subtitle:
-description:
+description: 蜀ICP备20009895号-1
 author: Ryan JIANG
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -317,7 +317,7 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: false
+  wordcount: true
   min2read: false
   separated_meta: true
 
