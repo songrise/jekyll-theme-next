@@ -9,7 +9,7 @@ tags:
 
 *提示：使用ctrl+f来检索*
 
-## 1.数据结构
+# 1.数据结构
 
 数据 Data
 数据元素 Data element
@@ -142,7 +142,7 @@ tags:
 多重表文件 Multilist file
 倒排文件 Inverted file
 
-2.算法
+# 2.算法
 
 Data Structures 基本数据结构
 Dictionaries 字典
@@ -227,7 +227,7 @@ Shortest Common Superstring 最短公共父串
 DP——Dynamic Programming——动态规划
 recursion —— 递归
 
-## 3.编程词汇
+# 3.编程词汇
 
 A2A integration A2A 整合
 abstract 抽象的
@@ -1054,7 +1054,7 @@ XSLT (eXtensible Stylesheet Language Transformation)可扩展样式表语言转�
 xxx based 基于 xxx 的
 xxx oriented 面向 xxx
 
-## 4.通信专业词汇
+# 4.通信专业词汇
 
 AAL ATM Adaptation Layer ATM 适配层
 AN Access Network 接入网
