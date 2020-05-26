@@ -435,12 +435,12 @@ changyan:
 
 # Support for gitalk comments system.
 gitalk:
-  enable: true
-  clientID: 7c4dcf94e74e209d560a
-  clientSecret: 94bedbcc9e7666d73fb25c12b0506f60c0efa2c1
-  repo: https://github.com/songrise/gitalk-blog-comments
-  owner: songrise
-  admin: [songrise]
+  enable: false
+  clientID: #7c4dcf94e74e209d560a
+  clientSecret: #94bedbcc9e7666d73fb25c12b0506f60c0efa2c1
+  repo: #https://github.com/songrise/gitalk-blog-comments
+  owner: #songrise
+  admin: #[songrise]
 
 # Baidu Share
 # Available value:

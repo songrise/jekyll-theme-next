@@ -1,4 +1,4 @@
-<div class="copyright" >
+<div class="copyright">
   {% assign current = site.time | date: '%Y' %}
   {% assign since = site.since | downcase %}
   &copy; {% if site.since and since != current %} {{ since }} - {% endif %}
@@ -8,6 +8,7 @@
   </span>
   <span class="author" itemprop="copyrightHolder">{{ site.author }}</span>
 </div>
+<a href="http://www.beian.miit.gov.cn/">蜀ICP备20009895号-1</a>
 
 {% if site.copyright %}
 <div class="powered-by">
