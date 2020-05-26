@@ -440,7 +440,7 @@ gitalk:
   clientSecret: 94bedbcc9e7666d73fb25c12b0506f60c0efa2c1
   repo: https://github.com/songrise/gitalk-blog-comments
   owner: songrise
-  admin: songrise
+  admin: [songrise]
 
 # Baidu Share
 # Available value:
