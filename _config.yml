@@ -213,8 +213,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+  Github: https://github.com/songrise
 
 
 # Social Links Icons
@@ -274,10 +274,10 @@ sidebar:
   offset_float: 0
 
   # Back to top in sidebar
-  b2t: false
+  b2t: true
 
   # Scroll percent label in b2t button
-  scrollpercent: false
+  scrollpercent: true
 
 
 # Blog rolls
@@ -435,9 +435,9 @@ changyan:
 
 # Support for gitalk comments system.
 gitalk:
-  enable: false
-  clientID: # 54730ddf7b9420460c03
-  clientSecret: # c05684701b25ff1c19ea0c01ce4d80c125e0707d
+  enable: true
+  clientID: 7c4dcf94e74e209d560a
+  clientSecret: 94bedbcc9e7666d73fb25c12b0506f60c0efa2c1
   repo: # colingpt.github.io
   owner: # colingpt
   admin: # colingpt
