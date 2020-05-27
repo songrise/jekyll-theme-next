@@ -1,8 +1,8 @@
 ---
 title: Linux控制台程序彩色输出
 date: 2020-05-26 22:58:53
-category: Skills
-- 
+category: 
+- Skills
 tags:
 - Linux
 - C/C++
