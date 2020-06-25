@@ -13,6 +13,7 @@ tags:
 [![tEhsl8.png](https://s1.ax1x.com/2020/05/27/tEhsl8.png)](https://imgchr.com/i/tEhsl8)
 那么我们如何为自己的 C/C++ 程序添加彩色输出的能力呢？在Linux系统中，做到这点很简单--只需要打印一段特殊的字符序列即可.
 例如  
+
 ```C
 #include <stdio.h>
 

@@ -5,6 +5,7 @@ category:
 - Notes
 tags:
 - Data Structure
+- Discrete Mathematics
 ---
 
 
