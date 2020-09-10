@@ -1,6 +1,6 @@
 ---
 title: 离散数学名词中英对照
-date: 2020-09-10 23:41:53
+date: 2020-09-09 23:41:53
 category: 
 - Others
 tags:
