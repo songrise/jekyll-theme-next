@@ -8,7 +8,7 @@ tags:
 ---
 
 *提示：使用ctrl+f，或本站自带全局检索来查找关键词*  
-  
+# 计算机专业常用术语中英对照 Glossary Bank for Computer Science
 ## 1.数据结构  
 
 数据 Data  
