@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: S0ngR1sE
-subtitle:
-description: Computer science is no more about computers than astronomy is about telescopes.                     --Edsger Dijkstra
+title: Songrise
+subtitle: A Personal Blog
+description: I am a sophomore student majoring in CS in HKPU.
 author: Ryan JIANG
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -87,7 +87,7 @@ keywords: "Jekyll, NexT"
 rss: false
 
 # Specify the date when the site was setup
-since: 2020
+since: 2019
 
 # icon between year and author @Footer
 authoricon: heart
@@ -105,11 +105,11 @@ copyright: false
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
-index_with_subtitle: false
+index_with_subtitle: true
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -244,7 +244,7 @@ toc:
   number: true
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
-  wrap: false
+  wrap: true
 
 
 # Creative Commons 4.0 International License.
