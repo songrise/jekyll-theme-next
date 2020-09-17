@@ -2,7 +2,7 @@
 title: 二叉树的数学性质
 date: 2020-06-21 20:41:53
 category: 
-- Notes
+- Reading Notes
 tags:
 - Data Structure
 - Discrete Mathematics
